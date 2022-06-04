@@ -18,6 +18,8 @@
 }    
 .example-item_first {
     background-color: aquamarine;
+    float: left;
+    margin-inline-start: 05px;
 }
 
 .example-item_second {
@@ -26,6 +28,8 @@
 
 .example-item_third {
     background-color: rgb(26, 117, 86);
+    float: right;
+    margin-right: 05px;
 }
 
 .last-line {
